@@ -3,12 +3,7 @@
 # in-the-theoretical-background-ARWEN-and-WLD-methods-are-introduced
 # Proposed by [25], the ARWEN method is developed to identify the most suitable option based on the smallest rate of
 # change, as opposed to selecting an elected nominee. The method has been further elaborated into four variants, each
-# based on the type and extent of information that decision-makers have at their disposal. The ARWEN’s algorithm’s
-# fundamental selection process is based on the larger value of Γi
-# where n and m stand for the number of criteria and alternatives, respectively.
-# The WLD method is developed based on the assumption that decision-makers have complete information regarding
-# the criteria [26]. This straightforward weighting approach assigns two distinct importance weights for criteria
-# evaluation, mimicking human behavioral patterns in assessing these criteria.
+# based on thon, mimicking human behavioral patterns in assessing these criteria.
 
 #4. The DSS Codes
 #4.1. Computing criteria weights
